@@ -17,9 +17,23 @@
 </div>
 
 ### Sobre mim
-Interesse pessoal por dados e tecnologia, possuo experiência de mais de 4 anos de trabalho com algumas linguagens de programação para fins acadêmicos e o uso das linguagens PHP e PYTHON para fins profissionais quando necessário. Atividades práticas como capacidade analítica, formular e validar hipótese, aquisição, manipulação, processamento e visualização dos dados fazem parte do meu dia a dia.   
+Interesse pessoal por dados e tecnologia, com habilidades sólidas em Python, SQL, R e Power BI. Experiência em desenvolvimento web com PHP e estou em busca de opurtunidades desafiadoras para aplicar meus conhecimentos em ciência de dados e contribuir para projetos que impulsionem insights e tomadas de decisão baseadas em dados.
 
 Mais sobre mim
 - 💼 Trabalhei com desenvolvimento Web
 - 🤵 Trabalhando em projetos de análise de dados
 - 🎓 Atualmente em cursos para Data Science
+
+Alguns cursos relevantes realizados
+- Formação Analista de Dados (Estatística, Aprendizado de Máquina, Análise de Dados, Sistemas de Banco de Dados.)
+- Participação ativa em projetos de ciência de dados, trabalhando em equipes multidisciplinares para resolver problemas reais.
+- Realização de análises estatísticas e implementação de modelos preditivos em projetos acadêmicos.
+
+### Alguns Projetos Realizados 
+Previsão de Vendas para Empresa de Varejo
+
+Utilizando uma base de dados históricos de vendas, desenvolvi um modelo de previsão de vendas utilizando algoritmos de séries temporais. O objetivo era auxiliar a empresa a otimizar seus estoques e planejamento de produção. Utilizei Python e a biblioteca statsmodels para criar o modelo e avaliar sua precisão. Os resultados foram apresentados por meio de visualizações interativas no Power BI.
+
+Análise de Sentimento de Mídias Sociais
+
+Realizei a análise de sentimentos de tweets relacionados a um determinado produto. Coletei dados do Twitter utilizando a API e utilizei técnicas de processamento de linguagem natural e aprendizado de máquina para classificar os tweets como positivos, negativos ou neutros. Implementei o modelo de análise de sentimentos em Python e criei visualizações interativas utilizando a biblioteca matplotlib.
