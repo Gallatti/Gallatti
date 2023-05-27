@@ -17,7 +17,7 @@
 </div>
 
 ### Sobre mim
-Interesse pessoal por dados e tecnologia, com habilidades sólidas em Python, SQL, R e Power BI. Experiência em desenvolvimento web com PHP e estou em busca de opurtunidades desafiadoras para aplicar meus conhecimentos em ciência de dados e contribuir para projetos que impulsionem insights e tomadas de decisão baseadas em dados.
+Interesse pessoal por dados e tecnologia, com habilidades sólidas em Python, SQL, R e Power BI. Experiência em desenvolvimento web com PHP e estou em busca de oportunidades desafiadoras para aplicar meus conhecimentos em ciência de dados e contribuir para projetos que impulsionem insights e tomadas de decisão baseadas em dados.
 
 Mais sobre mim
 - 💼 Trabalhei com desenvolvimento Web
