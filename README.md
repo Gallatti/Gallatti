@@ -1,6 +1,36 @@
-## 🖐️ Olá, Eu sou o Marcelo Gallatti 
+<title>Caixa Retangular</title>
+<!-- Adicione links para os ícones que você deseja usar (por exemplo, Font Awesome) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<style>
+    /* Estilos para a caixa retangular */
+    .caixa {
+        width: 300px;
+        background-color: #f0f0f0;
+        border: 1px solid #ccc;
+        padding: 20px;
+        border-radius: 5px;
+    }
+    /* Estilos para o título */
+    .titulo {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+    /* Estilos para o subtítulo */
+    .subtitulo {
+        font-size: 16px;
+        color: #666;
+        margin-bottom: 15px;
+    }
+    /* Estilos para os ícones */
+    .icones {
+        margin-top: 10px;
+    }
+    .icones i {
+        margin-right: 10px;
+        font-size: 20px;
+    }
 
-![Marcelo Gallatti GitHub stats](https://github-readme-stats.vercel.app/api?username=gallatti&show_icons=true&theme=highcontrast)
 
 ### Tecnologias do dia a dia 
 
